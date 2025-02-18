@@ -6,8 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahi2121-khan" alt="mahi2121-khan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://www.facebook.com/profile.php?id=61571623890418" alt="Mahiraah" style="width:500px;height:600px;">
-
+<p>
+<img src="https://image.spreadshirtmedia.com/image-server/v1/compositions/T210A2PA4301PT17X61Y37D1052821612W20826H25000/views/1,width=550,height=550,appearanceId=2,backgroundColor=000000,noPt=true/anime-programmer-girl-with-funny-meme-only-god-kn-mens-t-shirt.jpg" alt="Mahiraah" align="centre" style="width:200px;height:250px;">
+  
 - 🌱 I’m currently learning **MERN Stack.**
 
 - 💬 Ask me about **react, MERN, Node.js**
@@ -15,6 +16,9 @@
 - 📫 How to reach me **ramahi397@gmail.com**
 
 - ⚡ Fun fact **Ara Ara!!🤭**
+  </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
