@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahira Khan</h1>
+<h1 align="center">Hi 👋, I'm Ayesha</h1>
 <h3 align="center">The future is female, and it's coded.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahi2121-khan&label=Profile%20views&color=0e75b6&style=flat" alt="mahi2121-khan" /> </p>
